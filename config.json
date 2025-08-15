@@ -1,8 +1,7 @@
 {
     "domains": [
-        "aHR0cHM6Ly9kdWppYW8udXV1aXguY29tCg==", 
-        "aHR0cHM6Ly9iYWlkdS5jb20=", 
-        "aHR0cHM6Ly8xLjEuMS4x" 
+        "aHR0cHM6Ly9wYWdlMS50YWlzYWZlLmNj",
+        "aHR0cHM6Ly9wYWdlMi50YWlzYWZlLmNj"
     ],
     "countdownDuration": 5,
     "logoText": "WF", 
