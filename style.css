@@ -1,5 +1,5 @@
 /* style.css */
-/* 基础样式 */
+/* 基礎樣式 */
 html,body{height:100%;margin:0;padding:0;}
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -59,7 +59,7 @@ h1{color:#fff;font-size:1.8rem;margin-bottom:1rem;font-weight:500;text-shadow:0 
 @keyframes bounce{0%,80%,100%{transform:scale(0);}40%{transform:scale(1);}}
 .footer{margin-top:1.5rem;color:rgba(255,255,255,.6);font-size:.9rem;}
 
-/* 引导层样式 */
+/* 引導層樣式 */
 .overlay {
     position: fixed;
     top: 0;
@@ -162,7 +162,7 @@ h1{color:#fff;font-size:1.8rem;margin-bottom:1rem;font-weight:500;text-shadow:0 
     box-shadow: 0 8px 20px rgba(255, 107, 107, 0.6);
 }
 
-/* 响应式设计 */
+/* 響應式設計 */
 @media (max-width:480px){
     .container{padding:1.5rem 1rem;width:98%;}
     h1{font-size:1.2rem;}
